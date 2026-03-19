@@ -3,12 +3,12 @@
 // Edite APENAS este arquivo para alterar credenciais
 // ═══════════════════════════════════════════════════════
 const CONFIG = {
-    PROXY_URL: 'https://polished-cherry-132b.migueldonizeti96.workers.dev',
-    CLIENT_ID: '897683631001-ugml9ertq7bldbtmsugcejhitav6l4dp.apps.googleusercontent.com',
-    SHEET_ID: '14wrXo2lohTXepgApiqsSQNIzaNH1bvjMLOaCXK65hWU',
-    SCOPES: 'https://www.googleapis.com/auth/spreadsheets profile email',
-    SHEET_LINKS: 'Sheet1',
-    SHEET_CONFIG: 'Sheet2',
-    RANGE_LINKS: 'Sheet1!A:F',
-    RANGE_CONFIG: 'Sheet2!A:B',
+  PROXY_URL:    'https://spring-pine-6033.demolayfranca677.workers.dev',
+  CLIENT_ID:    '1047938996273-rfdo8bq2or3ujj1e7gav9s2u14t2aejo.apps.googleusercontent.com',
+  SHEET_ID:     '1nGbhXuRlun9ptcxPu8GDPmr4qxOsinT2RxUcfIMZRm4',
+  SCOPES:       'https://www.googleapis.com/auth/spreadsheets profile email',
+  SHEET_LINKS:  'Sheet1',
+  SHEET_CONFIG: 'Sheet2',
+  RANGE_LINKS:  'Sheet1!A:F',
+  RANGE_CONFIG: 'Sheet2!A:B',
 };
